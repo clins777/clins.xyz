@@ -9,7 +9,9 @@ export const BRIEF_INTRO = {
   hello: "Hello! I'm Caio Lins, a Software Engineer based in Tokyo",
   overview: {
     content:
-      'I have been programming for 10+ years. 2 years of professional experience in Brazil and 3+ years in Japan. I have experience working in digital innovation, automotive and banking / fintech industries. With my positive mindset, strong communication and engineering skills, I am an excellent candidate to help you solve your IT solution problems. In the sections below I share a bit of my experience in the various industries that I have worked in.'
+      'I have been programming for 10+ years. 2 years of professional experience in Brazil and 3+ years in Japan. I have experience working in digital innovation, automotive and banking / fintech industries. With my positive mindset, strong communication and engineering skills, I am an excellent candidate to help you solve your IT solution problems.',
+    bonus:
+      'In the following sections I share a bit of my experience in the various industries that I worked in.'
   },
   moneytree: {
     title: 'Banking & Fintech',
