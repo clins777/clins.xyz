@@ -1,7 +1,7 @@
 // Place any global data in this file.
 // You can import this data from anywhere in your site by using the `import` keyword.
 
-export const SITE_TITLE = 'Caio Lins | clins777'
+export const SITE_TITLE = 'Caio Lins • clins777'
 export const SITE_DESCRIPTION = "Welcome clins777's website!"
 export const MY_NAME = 'Caio Lins'
 export const MY_HANDLE = 'clins777'
